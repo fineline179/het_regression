@@ -1,0 +1,7 @@
+*.so
+*.pyc
+
+.idea/
+auto/
+ltximg/
+.ipynb_checkpoints/
