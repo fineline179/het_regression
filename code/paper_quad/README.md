@@ -1,7 +1,7 @@
 # Analysis with sinusoidal hypothesis
 
-Trying to reproduce BISHOP 1996 paper on same type of dataset they use (Sinusoidal y(x),
-with x^2 variance noise. Fitting both y(x) and the log variance with 4 Gaussian basis
+Reproduction of BISHOP 1996 paper on same type of dataset they use (Sinusoidal y(x),
+with x^2 noise variance. Fitting both y(x) and the log variance with 4 Gaussian basis
 functions.)
 
 ## Files
