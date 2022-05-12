@@ -149,7 +149,7 @@ class BayesianHetRegression:
 
   def _fit_simple_grad_descent(self, Phi, Psi, t,
                                logging=True,
-                               maxiter=10000, train_rate=0.05, log_freq=100,
+                               maxiter=5000, train_rate=0.05, log_freq=100,
                                ev_scaling=50.):
     if logging:
       print('fitting using simple gradient descent\n')
